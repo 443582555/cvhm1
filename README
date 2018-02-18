@@ -1,5 +1,5 @@
 Functions for image stitch is located in file pano.py
-Simple demo is in imStitch.
+Simple demo is in imStitch.html.
 Alternatively, run python run.py {image directory}
 ex: python run.py img2
 Currently the default size of input images is 6 since it takes a while to run. 
